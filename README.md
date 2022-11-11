@@ -6,7 +6,7 @@ DataSource - <a href="https://github.com/mwaskom/seaborn-data/blob/master/titani
 
 <img src="Titanic_visualization/titanic_head.png"> 
 <h3>Histogram representation of age</h3>
-<br>
+
 <img src="Titanic_visualization/histogram_age.png">
 <h3>Boxplot representation of age</h3>
 <img src="Titanic_visualization/boxplot_age.png">
