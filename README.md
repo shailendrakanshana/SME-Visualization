@@ -5,6 +5,7 @@
 DataSource - <a href="https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv"> Titanic DataSet</a>
 
 <img src="Titanic_visualization/titanic_head.png"> 
+<h3>Histogram representation of age</h3>
 <img src="Titanic_visualization/histogram_age.png">
 
 <h3> Open code in Google Colab </h3>
