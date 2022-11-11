@@ -1,0 +1,87 @@
+body{
+    background-color:blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    width: 82vw;
+    margin: auto;
+}
+
+.column {
+    flex: 25%;
+    width: 60px;
+    padding: 0 8px;
+} 
+
+/* #container{
+    width: 50vw;
+    margin: auto;
+} */
+iframe{
+    height: 300px;
+    width: 40vw;
+    border-radius: 30px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#res{
+    width: 50vw;
+    height: 500px;
+}
+
+.head{
+    width: 40vw;
+    background-color:aquamarine;
+    padding: 5px 40px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pie{
+    width: 20vw;
+    background-color:aquamarine;
+    padding: 5px 40px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.about{
+    width: 74vw;
+    background-color: aquamarine;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+.button{
+    width: 20vw;
+    margin: auto;
+    margin-top: 20px;
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.button a{
+    text-decoration: none;
+    color: white;
+
+}
+/* #button a :hover{
+    color: black;
+    background-color: red;
+    padding: 15px 30px;
+
+} */
