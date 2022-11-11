@@ -4,6 +4,10 @@
 
 DataSource - <a href="https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv"> Titanic DataSet</a>
 
+<h3> Open code in Google Colab </h3>
+
+[![Colab for stable model](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZRGB6MrHlgIXHAWqpafizKayuvwpj7jm?usp=sharing)
+
 <img src="Titanic_visualization/titanic_head.png"> 
 <h3>Histogram representation of age</h3>
 
@@ -27,6 +31,4 @@ DataSource - <a href="https://github.com/mwaskom/seaborn-data/blob/master/titani
 <h3>Scatterplot martix representation of fare,pclass,age and people survived</h3>
 <img src="Titanic_visualization/scatter_matrix_age_fare_pclass_survived.png">
 
-<h3> Open code in Google Colab </h3>
- 
-[![Colab for stable model](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZRGB6MrHlgIXHAWqpafizKayuvwpj7jm?usp=sharing)
+
